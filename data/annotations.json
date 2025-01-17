@@ -1,0 +1,6920 @@
+[
+    {
+        "filename": "apple1.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        132,
+                        77,
+                        629,
+                        497
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple10.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        21,
+                        31,
+                        236,
+                        218
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple11.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        41,
+                        68,
+                        286,
+                        332
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple12.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        26,
+                        54,
+                        185,
+                        226
+                    ],
+                    [
+                        188,
+                        67,
+                        328,
+                        226
+                    ],
+                    [
+                        328,
+                        62,
+                        478,
+                        224
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple13.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        89,
+                        207,
+                        526,
+                        645
+                    ],
+                    [
+                        492,
+                        117,
+                        890,
+                        546
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple14.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        446,
+                        413,
+                        1150,
+                        1123
+                    ],
+                    [
+                        1090,
+                        257,
+                        1586,
+                        721
+                    ],
+                    [
+                        368,
+                        107,
+                        1076,
+                        595
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple15.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        108,
+                        193,
+                        1651,
+                        1658
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple16.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        12,
+                        28,
+                        271,
+                        279
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple17.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        29,
+                        79,
+                        145,
+                        207
+                    ],
+                    [
+                        121,
+                        126,
+                        245,
+                        219
+                    ],
+                    [
+                        232,
+                        115,
+                        361,
+                        206
+                    ],
+                    [
+                        170,
+                        26,
+                        274,
+                        131
+                    ],
+                    [
+                        244,
+                        32,
+                        358,
+                        120
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple18.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        42,
+                        76,
+                        457,
+                        541
+                    ],
+                    [
+                        470,
+                        113,
+                        917,
+                        523
+                    ],
+                    [
+                        280,
+                        5,
+                        625,
+                        207
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple19.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        940,
+                        192,
+                        2250,
+                        1127
+                    ],
+                    [
+                        283,
+                        886,
+                        1305,
+                        1790
+                    ],
+                    [
+                        884,
+                        1064,
+                        1979,
+                        2146
+                    ],
+                    [
+                        2027,
+                        952,
+                        2997,
+                        2004
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple2.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        462,
+                        635,
+                        1388,
+                        1561
+                    ],
+                    [
+                        1529,
+                        685,
+                        2364,
+                        1561
+                    ],
+                    [
+                        1854,
+                        418,
+                        2479,
+                        889
+                    ],
+                    [
+                        1015,
+                        75,
+                        1879,
+                        748
+                    ],
+                    [
+                        220,
+                        486,
+                        1091,
+                        863
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple20.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        496,
+                        577,
+                        1022,
+                        1123
+                    ],
+                    [
+                        982,
+                        201,
+                        1500,
+                        817
+                    ],
+                    [
+                        194,
+                        22,
+                        782,
+                        619
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple21.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        133,
+                        93,
+                        262,
+                        215
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple22.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        31,
+                        141,
+                        168,
+                        267
+                    ],
+                    [
+                        152,
+                        94,
+                        275,
+                        242
+                    ],
+                    [
+                        33,
+                        72,
+                        160,
+                        165
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple23.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        15,
+                        34,
+                        176,
+                        207
+                    ],
+                    [
+                        168,
+                        82,
+                        322,
+                        259
+                    ],
+                    [
+                        183,
+                        11,
+                        336,
+                        136
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple24.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        1,
+                        6,
+                        239,
+                        268
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple25.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        522,
+                        348,
+                        2505,
+                        2218
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple26.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        984,
+                        680,
+                        2106,
+                        1964
+                    ],
+                    [
+                        151,
+                        599,
+                        1074,
+                        1637
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple27.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        125,
+                        88,
+                        1984,
+                        2172
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple28.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        198,
+                        204,
+                        362,
+                        368
+                    ],
+                    [
+                        27,
+                        203,
+                        199,
+                        356
+                    ],
+                    [
+                        132,
+                        34,
+                        292,
+                        207
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple29.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        178,
+                        256,
+                        538,
+                        624
+                    ],
+                    [
+                        70,
+                        79,
+                        419,
+                        393
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple3.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        82,
+                        53,
+                        882,
+                        859
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple30.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        91,
+                        52,
+                        2156,
+                        2070
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple31.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        194,
+                        587,
+                        3078,
+                        3360
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple32.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        144,
+                        254,
+                        858,
+                        935
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple33.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        113,
+                        135,
+                        370,
+                        398
+                    ],
+                    [
+                        320,
+                        256,
+                        621,
+                        470
+                    ],
+                    [
+                        343,
+                        84,
+                        612,
+                        273
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple34.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        45,
+                        32,
+                        552,
+                        571
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple35.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        624,
+                        1102,
+                        2860,
+                        3813
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple36.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        1399,
+                        836,
+                        3978,
+                        3197
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple37.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        154,
+                        169,
+                        2148,
+                        2109
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple4.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        193,
+                        172,
+                        404,
+                        370
+                    ],
+                    [
+                        335,
+                        113,
+                        504,
+                        284
+                    ],
+                    [
+                        165,
+                        71,
+                        333,
+                        190
+                    ],
+                    [
+                        295,
+                        37,
+                        450,
+                        141
+                    ],
+                    [
+                        146,
+                        12,
+                        298,
+                        101
+                    ],
+                    [
+                        20,
+                        59,
+                        158,
+                        155
+                    ],
+                    [
+                        11,
+                        123,
+                        202,
+                        338
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple5.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        77,
+                        199,
+                        852,
+                        999
+                    ],
+                    [
+                        953,
+                        217,
+                        1571,
+                        946
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple6.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        75,
+                        44,
+                        2145,
+                        2097
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple7.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        38,
+                        25,
+                        291,
+                        262
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple8.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        2,
+                        2,
+                        213,
+                        241
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "apple9.jpg",
+        "labels": [
+            {
+                "label": "Apple",
+                "coordinates": [
+                    [
+                        83,
+                        36,
+                        2136,
+                        2145
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado38.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        100,
+                        67,
+                        328,
+                        233
+                    ],
+                    [
+                        22,
+                        23,
+                        240,
+                        177
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado39.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        10,
+                        122,
+                        175,
+                        233
+                    ],
+                    [
+                        144,
+                        155,
+                        306,
+                        254
+                    ],
+                    [
+                        101,
+                        61,
+                        286,
+                        191
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado40.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        211,
+                        225,
+                        444,
+                        433
+                    ],
+                    [
+                        419,
+                        210,
+                        633,
+                        385
+                    ],
+                    [
+                        38,
+                        205,
+                        232,
+                        366
+                    ],
+                    [
+                        123,
+                        55,
+                        387,
+                        238
+                    ],
+                    [
+                        374,
+                        181,
+                        512,
+                        277
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado41.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        305,
+                        367,
+                        916,
+                        692
+                    ],
+                    [
+                        116,
+                        58,
+                        340,
+                        565
+                    ],
+                    [
+                        238,
+                        184,
+                        756,
+                        582
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado42.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        140,
+                        59,
+                        371,
+                        239
+                    ],
+                    [
+                        28,
+                        26,
+                        292,
+                        154
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado43.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        113,
+                        49,
+                        276,
+                        265
+                    ],
+                    [
+                        2,
+                        85,
+                        138,
+                        247
+                    ],
+                    [
+                        169,
+                        11,
+                        281,
+                        188
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado44.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        25,
+                        649,
+                        1440,
+                        1725
+                    ],
+                    [
+                        1086,
+                        818,
+                        2198,
+                        1761
+                    ],
+                    [
+                        1942,
+                        860,
+                        2888,
+                        1650
+                    ],
+                    [
+                        1451,
+                        22,
+                        2378,
+                        838
+                    ],
+                    [
+                        245,
+                        0,
+                        1559,
+                        677
+                    ],
+                    [
+                        2212,
+                        72,
+                        2989,
+                        761
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado45.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        1218,
+                        145,
+                        2113,
+                        1561
+                    ],
+                    [
+                        -2,
+                        521,
+                        1256,
+                        1673
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado46.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        76,
+                        51,
+                        2713,
+                        2225
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado47.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        102,
+                        139,
+                        292,
+                        397
+                    ],
+                    [
+                        288,
+                        110,
+                        418,
+                        332
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado48.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        59,
+                        166,
+                        538,
+                        433
+                    ],
+                    [
+                        156,
+                        10,
+                        574,
+                        310
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado49.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        502,
+                        328,
+                        1412,
+                        1835
+                    ],
+                    [
+                        1276,
+                        194,
+                        2112,
+                        1693
+                    ],
+                    [
+                        71,
+                        580,
+                        808,
+                        1345
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado50.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        52,
+                        324,
+                        2495,
+                        1966
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado51.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        70,
+                        255,
+                        477,
+                        580
+                    ],
+                    [
+                        409,
+                        231,
+                        938,
+                        610
+                    ],
+                    [
+                        593,
+                        51,
+                        902,
+                        530
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado52.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        1579,
+                        573,
+                        3314,
+                        1999
+                    ],
+                    [
+                        25,
+                        535,
+                        1575,
+                        1917
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado53.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        103,
+                        64,
+                        532,
+                        614
+                    ],
+                    [
+                        408,
+                        272,
+                        933,
+                        643
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado54.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        13,
+                        45,
+                        355,
+                        270
+                    ],
+                    [
+                        272,
+                        29,
+                        620,
+                        260
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado55.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        521,
+                        383,
+                        1471,
+                        1012
+                    ],
+                    [
+                        310,
+                        3,
+                        1254,
+                        516
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado56.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        0,
+                        0,
+                        245,
+                        489
+                    ],
+                    [
+                        -1,
+                        184,
+                        498,
+                        507
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado57.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        753,
+                        557,
+                        1697,
+                        1279
+                    ],
+                    [
+                        491,
+                        30,
+                        1145,
+                        1196
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado58.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        1256,
+                        880,
+                        3293,
+                        2545
+                    ],
+                    [
+                        673,
+                        385,
+                        2429,
+                        1806
+                    ],
+                    [
+                        2328,
+                        162,
+                        3622,
+                        1714
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado59.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        60,
+                        105,
+                        287,
+                        259
+                    ],
+                    [
+                        53,
+                        30,
+                        180,
+                        204
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado60.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        13,
+                        393,
+                        1034,
+                        1174
+                    ],
+                    [
+                        346,
+                        1,
+                        1018,
+                        969
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado61.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        81,
+                        74,
+                        533,
+                        359
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado62.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        108,
+                        392,
+                        1347,
+                        1290
+                    ],
+                    [
+                        1292,
+                        356,
+                        2412,
+                        1325
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado63.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        157,
+                        43,
+                        2699,
+                        2256
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado64.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        93,
+                        226,
+                        426,
+                        440
+                    ],
+                    [
+                        11,
+                        201,
+                        265,
+                        403
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "avocado65.jpg",
+        "labels": [
+            {
+                "label": "Avocado",
+                "coordinates": [
+                    [
+                        477,
+                        397,
+                        957,
+                        976
+                    ],
+                    [
+                        1012,
+                        429,
+                        1478,
+                        1036
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui100.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        92,
+                        122,
+                        1155,
+                        910
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui101.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        713,
+                        2100,
+                        2540,
+                        4635
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui102.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        94,
+                        68,
+                        344,
+                        292
+                    ],
+                    [
+                        340,
+                        80,
+                        539,
+                        325
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui103.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        2715,
+                        1395,
+                        4281,
+                        2872
+                    ],
+                    [
+                        1197,
+                        1194,
+                        2742,
+                        2877
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui66.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        72,
+                        81,
+                        161,
+                        140
+                    ],
+                    [
+                        15,
+                        51,
+                        100,
+                        124
+                    ],
+                    [
+                        125,
+                        28,
+                        197,
+                        101
+                    ],
+                    [
+                        5,
+                        11,
+                        86,
+                        65
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui67.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        215,
+                        30,
+                        579,
+                        353
+                    ],
+                    [
+                        60,
+                        36,
+                        304,
+                        328
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui68.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        42,
+                        4,
+                        772,
+                        589
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui69.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        -2,
+                        180,
+                        208,
+                        371
+                    ],
+                    [
+                        191,
+                        186,
+                        395,
+                        392
+                    ],
+                    [
+                        122,
+                        38,
+                        323,
+                        224
+                    ],
+                    [
+                        -8,
+                        13,
+                        145,
+                        227
+                    ],
+                    [
+                        165,
+                        -4,
+                        383,
+                        74
+                    ],
+                    [
+                        295,
+                        117,
+                        407,
+                        329
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui70.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        57,
+                        25,
+                        746,
+                        740
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui71.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        752,
+                        81,
+                        2713,
+                        1755
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui72.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        81,
+                        86,
+                        227,
+                        214
+                    ],
+                    [
+                        8,
+                        51,
+                        138,
+                        168
+                    ],
+                    [
+                        175,
+                        64,
+                        286,
+                        183
+                    ],
+                    [
+                        175,
+                        22,
+                        288,
+                        102
+                    ],
+                    [
+                        63,
+                        4,
+                        188,
+                        88
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui73.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        23,
+                        79,
+                        164,
+                        225
+                    ],
+                    [
+                        164,
+                        102,
+                        310,
+                        224
+                    ],
+                    [
+                        127,
+                        26,
+                        298,
+                        131
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui74.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        275,
+                        256,
+                        776,
+                        751
+                    ],
+                    [
+                        77,
+                        36,
+                        474,
+                        599
+                    ],
+                    [
+                        483,
+                        93,
+                        938,
+                        578
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui75.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        161,
+                        171,
+                        343,
+                        358
+                    ],
+                    [
+                        43,
+                        80,
+                        236,
+                        270
+                    ],
+                    [
+                        225,
+                        58,
+                        409,
+                        257
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui76.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        236,
+                        24,
+                        427,
+                        239
+                    ],
+                    [
+                        38,
+                        18,
+                        235,
+                        244
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui77.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        -24,
+                        262,
+                        1132,
+                        1232
+                    ],
+                    [
+                        978,
+                        488,
+                        2040,
+                        1295
+                    ],
+                    [
+                        764,
+                        127,
+                        1924,
+                        661
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui78.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        -54,
+                        -9,
+                        369,
+                        405
+                    ],
+                    [
+                        -54,
+                        280,
+                        488,
+                        448
+                    ],
+                    [
+                        283,
+                        -14,
+                        564,
+                        205
+                    ],
+                    [
+                        366,
+                        35,
+                        609,
+                        448
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui79.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        28,
+                        1,
+                        366,
+                        301
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui80.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        -6,
+                        208,
+                        1252,
+                        1246
+                    ],
+                    [
+                        1252,
+                        914,
+                        2454,
+                        1636
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui81.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        -7,
+                        49,
+                        179,
+                        199
+                    ],
+                    [
+                        156,
+                        85,
+                        301,
+                        198
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui82.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        396,
+                        80,
+                        1063,
+                        725
+                    ],
+                    [
+                        120,
+                        119,
+                        586,
+                        674
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui83.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        217,
+                        140,
+                        423,
+                        308
+                    ],
+                    [
+                        2,
+                        137,
+                        198,
+                        304
+                    ],
+                    [
+                        115,
+                        14,
+                        365,
+                        176
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui84.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        1303,
+                        342,
+                        2357,
+                        1477
+                    ],
+                    [
+                        346,
+                        257,
+                        1387,
+                        1402
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui85.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        60,
+                        43,
+                        340,
+                        360
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui86.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        499,
+                        4,
+                        2436,
+                        1632
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui87.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        510,
+                        198,
+                        778,
+                        504
+                    ],
+                    [
+                        233,
+                        164,
+                        538,
+                        452
+                    ],
+                    [
+                        -3,
+                        116,
+                        298,
+                        401
+                    ],
+                    [
+                        306,
+                        82,
+                        552,
+                        268
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui88.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        11,
+                        6,
+                        958,
+                        999
+                    ],
+                    [
+                        886,
+                        178,
+                        1560,
+                        944
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui89.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        116,
+                        88,
+                        316,
+                        265
+                    ],
+                    [
+                        13,
+                        26,
+                        202,
+                        202
+                    ],
+                    [
+                        203,
+                        4,
+                        372,
+                        183
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui90.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        745,
+                        360,
+                        1760,
+                        1341
+                    ],
+                    [
+                        263,
+                        54,
+                        1324,
+                        1016
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui91.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        787,
+                        568,
+                        1796,
+                        1490
+                    ],
+                    [
+                        154,
+                        366,
+                        1025,
+                        1340
+                    ],
+                    [
+                        1197,
+                        249,
+                        2423,
+                        1196
+                    ],
+                    [
+                        577,
+                        125,
+                        1553,
+                        590
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui92.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        317,
+                        146,
+                        547,
+                        374
+                    ],
+                    [
+                        11,
+                        156,
+                        309,
+                        368
+                    ],
+                    [
+                        198,
+                        12,
+                        409,
+                        214
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui93.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        81,
+                        9,
+                        280,
+                        187
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui94.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        583,
+                        109,
+                        2465,
+                        2203
+                    ],
+                    [
+                        1708,
+                        -51,
+                        3294,
+                        1215
+                    ],
+                    [
+                        168,
+                        -138,
+                        1731,
+                        1131
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui95.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        348,
+                        196,
+                        784,
+                        651
+                    ],
+                    [
+                        68,
+                        202,
+                        461,
+                        525
+                    ],
+                    [
+                        443,
+                        5,
+                        821,
+                        406
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui96.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        193,
+                        61,
+                        318,
+                        203
+                    ],
+                    [
+                        54,
+                        75,
+                        221,
+                        215
+                    ],
+                    [
+                        65,
+                        7,
+                        223,
+                        111
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui97.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        124,
+                        110,
+                        339,
+                        309
+                    ],
+                    [
+                        23,
+                        70,
+                        163,
+                        261
+                    ],
+                    [
+                        75,
+                        26,
+                        246,
+                        116
+                    ],
+                    [
+                        201,
+                        51,
+                        371,
+                        195
+                    ],
+                    [
+                        333,
+                        47,
+                        480,
+                        138
+                    ],
+                    [
+                        398,
+                        82,
+                        521,
+                        284
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui98.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        301,
+                        202,
+                        481,
+                        329
+                    ],
+                    [
+                        132,
+                        208,
+                        304,
+                        345
+                    ],
+                    [
+                        200,
+                        135,
+                        348,
+                        224
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "kiwifrui99.jpg",
+        "labels": [
+            {
+                "label": "Kiwi",
+                "coordinates": [
+                    [
+                        167,
+                        2,
+                        315,
+                        147
+                    ],
+                    [
+                        4,
+                        1,
+                        161,
+                        157
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon104.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        35,
+                        74,
+                        194,
+                        195
+                    ],
+                    [
+                        5,
+                        0,
+                        111,
+                        146
+                    ],
+                    [
+                        92,
+                        4,
+                        212,
+                        92
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon105.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        974,
+                        336,
+                        2082,
+                        1375
+                    ],
+                    [
+                        141,
+                        493,
+                        1102,
+                        1311
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon106.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        14,
+                        59,
+                        216,
+                        258
+                    ],
+                    [
+                        181,
+                        36,
+                        377,
+                        251
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon107.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        48,
+                        52,
+                        990,
+                        715
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon108.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        157,
+                        96,
+                        920,
+                        648
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon109.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        112,
+                        107,
+                        308,
+                        250
+                    ],
+                    [
+                        55,
+                        56,
+                        209,
+                        184
+                    ],
+                    [
+                        196,
+                        33,
+                        386,
+                        180
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon110.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        49,
+                        71,
+                        444,
+                        473
+                    ],
+                    [
+                        359,
+                        29,
+                        769,
+                        376
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon111.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        432,
+                        123,
+                        748,
+                        492
+                    ],
+                    [
+                        45,
+                        194,
+                        415,
+                        564
+                    ],
+                    [
+                        211,
+                        45,
+                        496,
+                        275
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon112.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        850,
+                        140,
+                        1450,
+                        841
+                    ],
+                    [
+                        266,
+                        458,
+                        954,
+                        949
+                    ],
+                    [
+                        180,
+                        170,
+                        484,
+                        521
+                    ],
+                    [
+                        -74,
+                        8,
+                        176,
+                        513
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon113.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        62,
+                        100,
+                        510,
+                        429
+                    ],
+                    [
+                        445,
+                        130,
+                        792,
+                        448
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon114.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        25,
+                        9,
+                        394,
+                        274
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon115.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        82,
+                        238,
+                        288,
+                        438
+                    ],
+                    [
+                        1,
+                        156,
+                        221,
+                        327
+                    ],
+                    [
+                        66,
+                        16,
+                        275,
+                        158
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon116.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        1905,
+                        579,
+                        3353,
+                        2261
+                    ],
+                    [
+                        1088,
+                        204,
+                        2541,
+                        1289
+                    ],
+                    [
+                        437,
+                        920,
+                        2007,
+                        2316
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon117.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        228,
+                        122,
+                        493,
+                        320
+                    ],
+                    [
+                        84,
+                        18,
+                        368,
+                        200
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon118.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        31,
+                        28,
+                        475,
+                        323
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon119.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        16,
+                        110,
+                        220,
+                        244
+                    ],
+                    [
+                        212,
+                        74,
+                        392,
+                        245
+                    ],
+                    [
+                        81,
+                        8,
+                        307,
+                        127
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon120.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        13,
+                        23,
+                        370,
+                        283
+                    ],
+                    [
+                        356,
+                        73,
+                        633,
+                        357
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon121.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        866,
+                        361,
+                        1366,
+                        768
+                    ],
+                    [
+                        617,
+                        488,
+                        1170,
+                        967
+                    ],
+                    [
+                        208,
+                        217,
+                        820,
+                        714
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon122.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        180,
+                        111,
+                        382,
+                        376
+                    ],
+                    [
+                        75,
+                        176,
+                        321,
+                        273
+                    ],
+                    [
+                        305,
+                        72,
+                        527,
+                        255
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon123.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        306,
+                        212,
+                        390,
+                        294
+                    ],
+                    [
+                        167,
+                        222,
+                        282,
+                        374
+                    ],
+                    [
+                        123,
+                        129,
+                        273,
+                        237
+                    ],
+                    [
+                        53,
+                        125,
+                        143,
+                        228
+                    ],
+                    [
+                        92,
+                        85,
+                        148,
+                        149
+                    ],
+                    [
+                        74,
+                        211,
+                        169,
+                        328
+                    ],
+                    [
+                        205,
+                        193,
+                        300,
+                        270
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon124.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        27,
+                        123,
+                        261,
+                        362
+                    ],
+                    [
+                        172,
+                        42,
+                        463,
+                        291
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon125.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        101,
+                        147,
+                        736,
+                        672
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon126.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        216,
+                        158,
+                        362,
+                        379
+                    ],
+                    [
+                        372,
+                        57,
+                        542,
+                        293
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon127.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        174,
+                        12,
+                        310,
+                        146
+                    ],
+                    [
+                        3,
+                        9,
+                        170,
+                        150
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon128.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        44,
+                        54,
+                        177,
+                        153
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon129.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        144,
+                        38,
+                        256,
+                        159
+                    ],
+                    [
+                        21,
+                        31,
+                        136,
+                        148
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon130.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        669,
+                        2083,
+                        2466,
+                        3503
+                    ],
+                    [
+                        1857,
+                        2002,
+                        3271,
+                        3242
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "lemon131.jpg",
+        "labels": [
+            {
+                "label": "Lemon",
+                "coordinates": [
+                    [
+                        116,
+                        96,
+                        2358,
+                        1950
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange132.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        1284,
+                        1217,
+                        1929,
+                        1887
+                    ],
+                    [
+                        677,
+                        1301,
+                        1399,
+                        2008
+                    ],
+                    [
+                        -17,
+                        1296,
+                        637,
+                        2065
+                    ],
+                    [
+                        639,
+                        416,
+                        1224,
+                        1118
+                    ],
+                    [
+                        1166,
+                        346,
+                        1714,
+                        1079
+                    ],
+                    [
+                        452,
+                        135,
+                        1064,
+                        631
+                    ],
+                    [
+                        17,
+                        363,
+                        607,
+                        1039
+                    ],
+                    [
+                        139,
+                        980,
+                        769,
+                        1493
+                    ],
+                    [
+                        764,
+                        879,
+                        1496,
+                        1405
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange133.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        184,
+                        255,
+                        332,
+                        432
+                    ],
+                    [
+                        305,
+                        253,
+                        458,
+                        408
+                    ],
+                    [
+                        22,
+                        233,
+                        191,
+                        397
+                    ],
+                    [
+                        98,
+                        166,
+                        255,
+                        326
+                    ],
+                    [
+                        265,
+                        154,
+                        419,
+                        298
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange134.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        -9,
+                        180,
+                        157,
+                        332
+                    ],
+                    [
+                        68,
+                        70,
+                        213,
+                        218
+                    ],
+                    [
+                        227,
+                        81,
+                        366,
+                        220
+                    ],
+                    [
+                        211,
+                        204,
+                        426,
+                        329
+                    ],
+                    [
+                        422,
+                        158,
+                        499,
+                        327
+                    ],
+                    [
+                        374,
+                        40,
+                        499,
+                        187
+                    ],
+                    [
+                        300,
+                        0,
+                        463,
+                        72
+                    ],
+                    [
+                        6,
+                        3,
+                        159,
+                        88
+                    ],
+                    [
+                        158,
+                        2,
+                        363,
+                        126
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange135.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        103,
+                        332,
+                        994,
+                        1066
+                    ],
+                    [
+                        810,
+                        649,
+                        1617,
+                        1075
+                    ],
+                    [
+                        613,
+                        1,
+                        1413,
+                        731
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange136.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        408,
+                        115,
+                        1332,
+                        970
+                    ],
+                    [
+                        18,
+                        526,
+                        550,
+                        1204
+                    ],
+                    [
+                        -8,
+                        -4,
+                        268,
+                        540
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange137.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        591,
+                        504,
+                        1188,
+                        1047
+                    ],
+                    [
+                        146,
+                        420,
+                        977,
+                        939
+                    ],
+                    [
+                        17,
+                        55,
+                        646,
+                        822
+                    ],
+                    [
+                        637,
+                        4,
+                        1217,
+                        703
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange138.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        164,
+                        29,
+                        397,
+                        272
+                    ],
+                    [
+                        23,
+                        19,
+                        214,
+                        217
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange139.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        249,
+                        474,
+                        1034,
+                        1057
+                    ],
+                    [
+                        784,
+                        730,
+                        1528,
+                        1146
+                    ],
+                    [
+                        964,
+                        231,
+                        1620,
+                        915
+                    ],
+                    [
+                        312,
+                        171,
+                        984,
+                        715
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange140.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        114,
+                        67,
+                        313,
+                        300
+                    ],
+                    [
+                        295,
+                        98,
+                        456,
+                        271
+                    ],
+                    [
+                        28,
+                        81,
+                        171,
+                        244
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange141.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        172,
+                        74,
+                        327,
+                        213
+                    ],
+                    [
+                        190,
+                        27,
+                        364,
+                        196
+                    ],
+                    [
+                        82,
+                        33,
+                        231,
+                        183
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange142.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        779,
+                        68,
+                        2772,
+                        2021
+                    ],
+                    [
+                        2471,
+                        1501,
+                        3798,
+                        2869
+                    ],
+                    [
+                        50,
+                        1987,
+                        2238,
+                        2739
+                    ],
+                    [
+                        27,
+                        779,
+                        839,
+                        2458
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange143.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        11,
+                        177,
+                        269,
+                        284
+                    ],
+                    [
+                        200,
+                        44,
+                        387,
+                        253
+                    ],
+                    [
+                        16,
+                        8,
+                        212,
+                        204
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange144.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        6,
+                        7,
+                        301,
+                        316
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange145.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        51,
+                        62,
+                        345,
+                        299
+                    ],
+                    [
+                        49,
+                        302,
+                        50,
+                        315
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange146.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        272,
+                        265,
+                        757,
+                        713
+                    ],
+                    [
+                        183,
+                        68,
+                        512,
+                        405
+                    ],
+                    [
+                        565,
+                        76,
+                        897,
+                        466
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange147.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        1050,
+                        969,
+                        2289,
+                        1710
+                    ],
+                    [
+                        448,
+                        590,
+                        1386,
+                        1544
+                    ],
+                    [
+                        1276,
+                        203,
+                        2248,
+                        1225
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange148.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        83,
+                        170,
+                        225,
+                        265
+                    ],
+                    [
+                        181,
+                        152,
+                        302,
+                        269
+                    ],
+                    [
+                        28,
+                        154,
+                        157,
+                        270
+                    ],
+                    [
+                        57,
+                        23,
+                        196,
+                        166
+                    ],
+                    [
+                        230,
+                        48,
+                        358,
+                        159
+                    ],
+                    [
+                        284,
+                        147,
+                        407,
+                        274
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange149.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        54,
+                        355,
+                        506,
+                        783
+                    ],
+                    [
+                        128,
+                        47,
+                        483,
+                        384
+                    ],
+                    [
+                        457,
+                        199,
+                        848,
+                        610
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange150.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        1,
+                        136,
+                        231,
+                        290
+                    ],
+                    [
+                        72,
+                        96,
+                        317,
+                        245
+                    ],
+                    [
+                        10,
+                        35,
+                        221,
+                        236
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange151.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        745,
+                        191,
+                        1349,
+                        697
+                    ],
+                    [
+                        91,
+                        491,
+                        737,
+                        1160
+                    ],
+                    [
+                        553,
+                        667,
+                        1249,
+                        1290
+                    ],
+                    [
+                        1173,
+                        701,
+                        1827,
+                        1421
+                    ],
+                    [
+                        1344,
+                        465,
+                        2008,
+                        978
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange152.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        20,
+                        8,
+                        216,
+                        201
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange153.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        973,
+                        83,
+                        1806,
+                        921
+                    ],
+                    [
+                        79,
+                        71,
+                        832,
+                        923
+                    ],
+                    [
+                        1802,
+                        106,
+                        2604,
+                        910
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange154.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        1801,
+                        800,
+                        2861,
+                        1632
+                    ],
+                    [
+                        1033,
+                        347,
+                        2089,
+                        1295
+                    ],
+                    [
+                        162,
+                        613,
+                        1336,
+                        1681
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange155.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        67,
+                        12,
+                        2079,
+                        1935
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange156.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        172,
+                        230,
+                        468,
+                        362
+                    ],
+                    [
+                        278,
+                        81,
+                        550,
+                        278
+                    ],
+                    [
+                        35,
+                        67,
+                        319,
+                        300
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange157.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        47,
+                        13,
+                        235,
+                        198
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange158.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        33,
+                        30,
+                        165,
+                        160
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange159.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        124,
+                        101,
+                        559,
+                        525
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange160.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        37,
+                        20,
+                        575,
+                        559
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange161.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        69,
+                        24,
+                        482,
+                        387
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange162.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        332,
+                        25,
+                        643,
+                        345
+                    ],
+                    [
+                        657,
+                        41,
+                        983,
+                        344
+                    ],
+                    [
+                        29,
+                        20,
+                        337,
+                        348
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "orange163.jpg",
+        "labels": [
+            {
+                "label": "Orange",
+                "coordinates": [
+                    [
+                        1347,
+                        706,
+                        3741,
+                        2991
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear164.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        97,
+                        115,
+                        201,
+                        297
+                    ],
+                    [
+                        14,
+                        152,
+                        112,
+                        316
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear165.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        156,
+                        120,
+                        346,
+                        300
+                    ],
+                    [
+                        -8,
+                        146,
+                        171,
+                        297
+                    ],
+                    [
+                        1,
+                        20,
+                        182,
+                        140
+                    ],
+                    [
+                        185,
+                        40,
+                        356,
+                        220
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear166.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        215,
+                        113,
+                        441,
+                        308
+                    ],
+                    [
+                        56,
+                        59,
+                        275,
+                        301
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear167.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        231,
+                        324,
+                        1212,
+                        1779
+                    ],
+                    [
+                        417,
+                        1059,
+                        2187,
+                        1953
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear168.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        466,
+                        182,
+                        891,
+                        844
+                    ],
+                    [
+                        136,
+                        582,
+                        651,
+                        1268
+                    ],
+                    [
+                        4,
+                        177,
+                        372,
+                        825
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear169.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        22,
+                        16,
+                        212,
+                        245
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear170.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        203,
+                        158,
+                        406,
+                        315
+                    ],
+                    [
+                        59,
+                        39,
+                        214,
+                        284
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear171.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        729,
+                        996,
+                        2118,
+                        2049
+                    ],
+                    [
+                        369,
+                        498,
+                        1374,
+                        1602
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear172.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        176,
+                        122,
+                        411,
+                        499
+                    ],
+                    [
+                        383,
+                        119,
+                        588,
+                        452
+                    ],
+                    [
+                        91,
+                        116,
+                        287,
+                        446
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear173.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        37,
+                        72,
+                        225,
+                        307
+                    ],
+                    [
+                        240,
+                        58,
+                        401,
+                        324
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear174.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        362,
+                        80,
+                        456,
+                        220
+                    ],
+                    [
+                        280,
+                        92,
+                        364,
+                        223
+                    ],
+                    [
+                        204,
+                        106,
+                        277,
+                        219
+                    ],
+                    [
+                        124,
+                        56,
+                        204,
+                        221
+                    ],
+                    [
+                        41,
+                        99,
+                        131,
+                        215
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear175.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        8,
+                        44,
+                        279,
+                        325
+                    ],
+                    [
+                        196,
+                        23,
+                        505,
+                        307
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear176.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        5,
+                        72,
+                        192,
+                        231
+                    ],
+                    [
+                        146,
+                        10,
+                        289,
+                        222
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear177.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        5188,
+                        674,
+                        5748,
+                        1354
+                    ],
+                    [
+                        4469,
+                        129,
+                        5225,
+                        1386
+                    ],
+                    [
+                        3800,
+                        464,
+                        4418,
+                        1370
+                    ],
+                    [
+                        3008,
+                        198,
+                        3720,
+                        1372
+                    ],
+                    [
+                        2340,
+                        364,
+                        2885,
+                        1386
+                    ],
+                    [
+                        1569,
+                        344,
+                        2202,
+                        1377
+                    ],
+                    [
+                        886,
+                        340,
+                        1562,
+                        1381
+                    ],
+                    [
+                        123,
+                        451,
+                        806,
+                        1363
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear178.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        151,
+                        71,
+                        424,
+                        385
+                    ],
+                    [
+                        293,
+                        13,
+                        491,
+                        243
+                    ],
+                    [
+                        31,
+                        65,
+                        277,
+                        290
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear179.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        252,
+                        98,
+                        760,
+                        681
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear180.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        652,
+                        606,
+                        1442,
+                        1106
+                    ],
+                    [
+                        293,
+                        202,
+                        946,
+                        992
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear181.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        43,
+                        40,
+                        257,
+                        316
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear182.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        149,
+                        409,
+                        1474,
+                        1859
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear183.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        29,
+                        18,
+                        185,
+                        254
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear184.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        1042,
+                        1081,
+                        1630,
+                        1769
+                    ],
+                    [
+                        1660,
+                        1043,
+                        2413,
+                        1810
+                    ],
+                    [
+                        1944,
+                        614,
+                        2473,
+                        1316
+                    ],
+                    [
+                        1559,
+                        329,
+                        2133,
+                        986
+                    ],
+                    [
+                        1090,
+                        187,
+                        1674,
+                        887
+                    ],
+                    [
+                        1397,
+                        716,
+                        1920,
+                        1276
+                    ],
+                    [
+                        779,
+                        690,
+                        1397,
+                        1349
+                    ],
+                    [
+                        486,
+                        1148,
+                        1046,
+                        1817
+                    ],
+                    [
+                        256,
+                        647,
+                        826,
+                        1428
+                    ],
+                    [
+                        597,
+                        336,
+                        1080,
+                        906
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear185.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        34,
+                        161,
+                        376,
+                        561
+                    ],
+                    [
+                        340,
+                        106,
+                        593,
+                        408
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear186.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        182,
+                        87,
+                        354,
+                        238
+                    ],
+                    [
+                        120,
+                        23,
+                        223,
+                        180
+                    ],
+                    [
+                        7,
+                        119,
+                        178,
+                        275
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear187.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        366,
+                        948,
+                        2136,
+                        1872
+                    ],
+                    [
+                        300,
+                        495,
+                        1377,
+                        1788
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear188.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        51,
+                        36,
+                        449,
+                        618
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear189.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        46,
+                        39,
+                        395,
+                        327
+                    ],
+                    [
+                        200,
+                        139,
+                        581,
+                        355
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear190.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        4,
+                        3,
+                        171,
+                        279
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear191.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        31,
+                        31,
+                        154,
+                        225
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear192.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        32,
+                        21,
+                        278,
+                        420
+                    ],
+                    [
+                        312,
+                        17,
+                        589,
+                        407
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear193.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        36,
+                        65,
+                        370,
+                        572
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pear194.jpg",
+        "labels": [
+            {
+                "label": "Pear",
+                "coordinates": [
+                    [
+                        63,
+                        17,
+                        440,
+                        578
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple195.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        246,
+                        100,
+                        930,
+                        1523
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple196.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        54,
+                        42,
+                        798,
+                        1604
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple197.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        404,
+                        39,
+                        1164,
+                        1069
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple198.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        188,
+                        29,
+                        598,
+                        749
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple199.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        50,
+                        36,
+                        132,
+                        255
+                    ],
+                    [
+                        106,
+                        155,
+                        231,
+                        296
+                    ],
+                    [
+                        7,
+                        208,
+                        101,
+                        292
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple200.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        572,
+                        116,
+                        1697,
+                        2798
+                    ],
+                    [
+                        2,
+                        561,
+                        681,
+                        2695
+                    ],
+                    [
+                        1489,
+                        1157,
+                        2228,
+                        2724
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple201.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        111,
+                        14,
+                        207,
+                        231
+                    ],
+                    [
+                        23,
+                        9,
+                        100,
+                        237
+                    ],
+                    [
+                        216,
+                        17,
+                        305,
+                        230
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple202.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        43,
+                        24,
+                        335,
+                        772
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple203.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        119,
+                        16,
+                        296,
+                        307
+                    ],
+                    [
+                        276,
+                        96,
+                        448,
+                        305
+                    ],
+                    [
+                        2,
+                        39,
+                        160,
+                        270
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple204.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        9,
+                        2,
+                        305,
+                        587
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple205.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        19,
+                        12,
+                        187,
+                        300
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple206.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        39,
+                        51,
+                        352,
+                        747
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple207.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        25,
+                        27,
+                        361,
+                        561
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple208.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        159,
+                        3,
+                        470,
+                        555
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple209.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        18,
+                        0,
+                        672,
+                        1119
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple210.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        40,
+                        35,
+                        441,
+                        888
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple211.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        0,
+                        3,
+                        260,
+                        262
+                    ],
+                    [
+                        37,
+                        180,
+                        196,
+                        321
+                    ],
+                    [
+                        200,
+                        196,
+                        337,
+                        313
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple212.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        147,
+                        57,
+                        569,
+                        1000
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple213.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        12,
+                        130,
+                        399,
+                        636
+                    ],
+                    [
+                        396,
+                        139,
+                        855,
+                        582
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple214.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        92,
+                        86,
+                        1480,
+                        2108
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple215.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        33,
+                        11,
+                        249,
+                        408
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple216.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        74,
+                        14,
+                        453,
+                        780
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple217.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        52,
+                        15,
+                        415,
+                        651
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple218.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        6,
+                        14,
+                        96,
+                        296
+                    ],
+                    [
+                        88,
+                        14,
+                        194,
+                        298
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple219.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        237,
+                        326,
+                        1332,
+                        701
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple220.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        598,
+                        179,
+                        1729,
+                        1845
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple221.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        107,
+                        1,
+                        400,
+                        401
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple222.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        142,
+                        21,
+                        548,
+                        880
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple223.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        186,
+                        5,
+                        357,
+                        362
+                    ],
+                    [
+                        4,
+                        56,
+                        124,
+                        315
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple224.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        107,
+                        60,
+                        646,
+                        448
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple225.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        76,
+                        17,
+                        247,
+                        417
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple226.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        128,
+                        69,
+                        581,
+                        943
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple227.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        76,
+                        4,
+                        341,
+                        617
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple228.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        33,
+                        18,
+                        149,
+                        260
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple229.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        39,
+                        9,
+                        144,
+                        248
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple230.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        4,
+                        15,
+                        169,
+                        259
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple231.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        7,
+                        6,
+                        138,
+                        326
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple232.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        34,
+                        13,
+                        146,
+                        264
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple233.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        1020,
+                        132,
+                        2085,
+                        1825
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple234.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        64,
+                        176,
+                        383,
+                        381
+                    ],
+                    [
+                        342,
+                        207,
+                        526,
+                        388
+                    ],
+                    [
+                        155,
+                        53,
+                        575,
+                        354
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pineapple235.jpg",
+        "labels": [
+            {
+                "label": "Pineapple",
+                "coordinates": [
+                    [
+                        652,
+                        720,
+                        2317,
+                        3746
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate236.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        156,
+                        21,
+                        1138,
+                        903
+                    ],
+                    [
+                        788,
+                        664,
+                        1552,
+                        1129
+                    ],
+                    [
+                        194,
+                        628,
+                        718,
+                        1027
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate237.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        615,
+                        573,
+                        1515,
+                        1436
+                    ],
+                    [
+                        110,
+                        151,
+                        1065,
+                        1148
+                    ],
+                    [
+                        895,
+                        155,
+                        1885,
+                        983
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate238.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        350,
+                        448,
+                        726,
+                        785
+                    ],
+                    [
+                        -12,
+                        578,
+                        382,
+                        875
+                    ],
+                    [
+                        98,
+                        348,
+                        402,
+                        665
+                    ],
+                    [
+                        758,
+                        375,
+                        1016,
+                        772
+                    ],
+                    [
+                        351,
+                        173,
+                        721,
+                        471
+                    ],
+                    [
+                        722,
+                        177,
+                        1001,
+                        446
+                    ],
+                    [
+                        230,
+                        108,
+                        503,
+                        357
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate239.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        3,
+                        172,
+                        180,
+                        391
+                    ],
+                    [
+                        76,
+                        3,
+                        286,
+                        231
+                    ],
+                    [
+                        202,
+                        235,
+                        292,
+                        325
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate240.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        58,
+                        197,
+                        499,
+                        544
+                    ],
+                    [
+                        429,
+                        166,
+                        615,
+                        446
+                    ],
+                    [
+                        273,
+                        80,
+                        517,
+                        318
+                    ],
+                    [
+                        75,
+                        62,
+                        293,
+                        217
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate241.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        92,
+                        10,
+                        356,
+                        218
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate242.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        438,
+                        166,
+                        2509,
+                        1642
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate243.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        12,
+                        110,
+                        380,
+                        363
+                    ],
+                    [
+                        321,
+                        44,
+                        542,
+                        221
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate244.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        311,
+                        217,
+                        885,
+                        730
+                    ],
+                    [
+                        48,
+                        177,
+                        492,
+                        669
+                    ],
+                    [
+                        457,
+                        61,
+                        968,
+                        409
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate245.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        103,
+                        84,
+                        264,
+                        216
+                    ],
+                    [
+                        19,
+                        38,
+                        169,
+                        183
+                    ],
+                    [
+                        164,
+                        7,
+                        300,
+                        137
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate246.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        219,
+                        44,
+                        422,
+                        297
+                    ],
+                    [
+                        55,
+                        27,
+                        195,
+                        236
+                    ],
+                    [
+                        88,
+                        207,
+                        301,
+                        274
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate247.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        31,
+                        137,
+                        243,
+                        334
+                    ],
+                    [
+                        182,
+                        56,
+                        368,
+                        272
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate248.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        4,
+                        55,
+                        223,
+                        305
+                    ],
+                    [
+                        216,
+                        38,
+                        450,
+                        307
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate249.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        74,
+                        15,
+                        370,
+                        241
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate250.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        68,
+                        16,
+                        320,
+                        249
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate251.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        10,
+                        50,
+                        194,
+                        283
+                    ],
+                    [
+                        170,
+                        0,
+                        366,
+                        180
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate252.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        368,
+                        26,
+                        704,
+                        336
+                    ],
+                    [
+                        40,
+                        35,
+                        349,
+                        334
+                    ],
+                    [
+                        717,
+                        5,
+                        1001,
+                        341
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate253.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        163,
+                        11,
+                        524,
+                        324
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate254.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        242,
+                        29,
+                        465,
+                        294
+                    ],
+                    [
+                        11,
+                        15,
+                        250,
+                        257
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate255.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        37,
+                        183,
+                        259,
+                        341
+                    ],
+                    [
+                        43,
+                        172,
+                        259,
+                        183
+                    ],
+                    [
+                        7,
+                        85,
+                        178,
+                        244
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate256.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        138,
+                        74,
+                        367,
+                        277
+                    ],
+                    [
+                        7,
+                        24,
+                        218,
+                        252
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate257.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        117,
+                        239,
+                        735,
+                        933
+                    ],
+                    [
+                        585,
+                        193,
+                        1173,
+                        816
+                    ],
+                    [
+                        64,
+                        71,
+                        657,
+                        594
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate258.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        99,
+                        94,
+                        226,
+                        172
+                    ],
+                    [
+                        6,
+                        12,
+                        141,
+                        153
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate259.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        25,
+                        35,
+                        376,
+                        338
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate260.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        186,
+                        11,
+                        357,
+                        174
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate261.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        -6,
+                        18,
+                        760,
+                        629
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate262.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        78,
+                        9,
+                        399,
+                        294
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate263.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        102,
+                        94,
+                        815,
+                        817
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate264.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        21,
+                        15,
+                        210,
+                        212
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate265.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        17,
+                        70,
+                        135,
+                        137
+                    ],
+                    [
+                        139,
+                        26,
+                        248,
+                        141
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate266.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        255,
+                        74,
+                        490,
+                        342
+                    ],
+                    [
+                        68,
+                        49,
+                        312,
+                        306
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "pomegranate267.jpg",
+        "labels": [
+            {
+                "label": "Pomegranate",
+                "coordinates": [
+                    [
+                        176,
+                        194,
+                        1209,
+                        1342
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie268.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        23,
+                        49,
+                        201,
+                        236
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie269.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        115,
+                        185,
+                        697,
+                        912
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie270.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        15,
+                        56,
+                        196,
+                        222
+                    ],
+                    [
+                        189,
+                        81,
+                        445,
+                        292
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie271.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        161,
+                        136,
+                        328,
+                        273
+                    ],
+                    [
+                        38,
+                        110,
+                        168,
+                        247
+                    ],
+                    [
+                        124,
+                        28,
+                        253,
+                        133
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie272.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        225,
+                        824,
+                        1314,
+                        1623
+                    ],
+                    [
+                        761,
+                        231,
+                        1452,
+                        1053
+                    ],
+                    [
+                        1224,
+                        762,
+                        1712,
+                        1362
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie273.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        307,
+                        625,
+                        3148,
+                        2980
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie274.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        223,
+                        574,
+                        889,
+                        1246
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie275.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        88,
+                        256,
+                        1909,
+                        1546
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie276.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        51,
+                        40,
+                        301,
+                        285
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie277.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        714,
+                        249,
+                        1225,
+                        864
+                    ],
+                    [
+                        284,
+                        142,
+                        754,
+                        742
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie278.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        225,
+                        367,
+                        609,
+                        728
+                    ],
+                    [
+                        71,
+                        174,
+                        377,
+                        492
+                    ],
+                    [
+                        414,
+                        57,
+                        682,
+                        401
+                    ],
+                    [
+                        664,
+                        295,
+                        974,
+                        588
+                    ],
+                    [
+                        624,
+                        73,
+                        815,
+                        286
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie279.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        73,
+                        253,
+                        411,
+                        607
+                    ],
+                    [
+                        371,
+                        297,
+                        784,
+                        671
+                    ],
+                    [
+                        736,
+                        135,
+                        1087,
+                        458
+                    ],
+                    [
+                        314,
+                        131,
+                        643,
+                        307
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie280.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        146,
+                        58,
+                        322,
+                        349
+                    ],
+                    [
+                        308,
+                        198,
+                        415,
+                        342
+                    ],
+                    [
+                        36,
+                        169,
+                        181,
+                        344
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie281.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        23,
+                        123,
+                        237,
+                        358
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie282.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        78,
+                        102,
+                        247,
+                        272
+                    ],
+                    [
+                        216,
+                        98,
+                        370,
+                        244
+                    ],
+                    [
+                        129,
+                        20,
+                        268,
+                        119
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie283.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        35,
+                        72,
+                        354,
+                        368
+                    ],
+                    [
+                        277,
+                        -1,
+                        564,
+                        293
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie284.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        60,
+                        38,
+                        271,
+                        276
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie285.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        500,
+                        738,
+                        1661,
+                        1865
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie286.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        405,
+                        137,
+                        669,
+                        452
+                    ],
+                    [
+                        114,
+                        250,
+                        412,
+                        626
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie287.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        12,
+                        47,
+                        332,
+                        368
+                    ],
+                    [
+                        330,
+                        60,
+                        603,
+                        346
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie288.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        101,
+                        344,
+                        579,
+                        747
+                    ],
+                    [
+                        377,
+                        185,
+                        799,
+                        679
+                    ],
+                    [
+                        60,
+                        122,
+                        478,
+                        528
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie289.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        537,
+                        223,
+                        810,
+                        511
+                    ],
+                    [
+                        230,
+                        184,
+                        535,
+                        529
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie290.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        61,
+                        214,
+                        819,
+                        988
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie291.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        30,
+                        29,
+                        192,
+                        169
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie292.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        85,
+                        44,
+                        176,
+                        147
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie293.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        51,
+                        30,
+                        207,
+                        171
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie294.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        40,
+                        56,
+                        187,
+                        196
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie295.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        8,
+                        52,
+                        185,
+                        248
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie296.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        38,
+                        21,
+                        222,
+                        171
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie297.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        88,
+                        36,
+                        196,
+                        144
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie298.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        74,
+                        142,
+                        543,
+                        568
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie299.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        83,
+                        408,
+                        896,
+                        1158
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "filename": "strawberrie300.jpg",
+        "labels": [
+            {
+                "label": "Strawberry",
+                "coordinates": [
+                    [
+                        46,
+                        88,
+                        349,
+                        471
+                    ]
+                ]
+            }
+        ]
+    }
+]

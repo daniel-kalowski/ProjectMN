@@ -1,0 +1,372 @@
+{
+    "AlexNet": [
+        {
+            "filename": "10.jpg",
+            "predicted_label": "Granny Smith"
+        },
+        {
+            "filename": "8.jpg",
+            "predicted_label": "pomegranate"
+        },
+        {
+            "filename": "6.jpg",
+            "predicted_label": "Granny Smith"
+        },
+        {
+            "filename": "4.jpg",
+            "predicted_label": "fig"
+        },
+        {
+            "filename": "3.jpg",
+            "predicted_label": "lemon"
+        },
+        {
+            "filename": "1.jpg",
+            "predicted_label": "orange"
+        },
+        {
+            "filename": "16.jpg",
+            "predicted_label": "fig"
+        },
+        {
+            "filename": "15.jpg",
+            "predicted_label": "zucchini, courgette"
+        },
+        {
+            "filename": "14.jpg",
+            "predicted_label": "chambered nautilus, pearly nautilus, nautilus"
+        },
+        {
+            "filename": "18.jpg",
+            "predicted_label": "pomegranate"
+        },
+        {
+            "filename": "2.jpg",
+            "predicted_label": "strawberry"
+        },
+        {
+            "filename": "7.jpg",
+            "predicted_label": "pineapple, ananas"
+        },
+        {
+            "filename": "9.jpg",
+            "predicted_label": "strawberry"
+        },
+        {
+            "filename": "5.jpg",
+            "predicted_label": "balloon"
+        },
+        {
+            "filename": "11.jpg",
+            "predicted_label": "orange"
+        },
+        {
+            "filename": "12.jpg",
+            "predicted_label": "orange"
+        },
+        {
+            "filename": "13.jpg",
+            "predicted_label": "tennis ball"
+        },
+        {
+            "filename": "17.jpg",
+            "predicted_label": "pomegranate"
+        }
+    ],
+    "DenseNet": [
+        {
+            "filename": "10.jpg",
+            "predicted_label": "Granny Smith"
+        },
+        {
+            "filename": "8.jpg",
+            "predicted_label": "pomegranate"
+        },
+        {
+            "filename": "6.jpg",
+            "predicted_label": "Granny Smith"
+        },
+        {
+            "filename": "4.jpg",
+            "predicted_label": "Granny Smith"
+        },
+        {
+            "filename": "3.jpg",
+            "predicted_label": "lemon"
+        },
+        {
+            "filename": "1.jpg",
+            "predicted_label": "lemon"
+        },
+        {
+            "filename": "16.jpg",
+            "predicted_label": "Granny Smith"
+        },
+        {
+            "filename": "15.jpg",
+            "predicted_label": "cucumber, cuke"
+        },
+        {
+            "filename": "14.jpg",
+            "predicted_label": "Granny Smith"
+        },
+        {
+            "filename": "18.jpg",
+            "predicted_label": "Granny Smith"
+        },
+        {
+            "filename": "2.jpg",
+            "predicted_label": "strawberry"
+        },
+        {
+            "filename": "7.jpg",
+            "predicted_label": "pineapple, ananas"
+        },
+        {
+            "filename": "9.jpg",
+            "predicted_label": "strawberry"
+        },
+        {
+            "filename": "5.jpg",
+            "predicted_label": "ocarina, sweet potato"
+        },
+        {
+            "filename": "11.jpg",
+            "predicted_label": "orange"
+        },
+        {
+            "filename": "12.jpg",
+            "predicted_label": "orange"
+        },
+        {
+            "filename": "13.jpg",
+            "predicted_label": "lemon"
+        },
+        {
+            "filename": "17.jpg",
+            "predicted_label": "pomegranate"
+        }
+    ],
+    "EfficientNet": [
+        {
+            "filename": "10.jpg",
+            "predicted_label": "Granny Smith"
+        },
+        {
+            "filename": "8.jpg",
+            "predicted_label": "pomegranate"
+        },
+        {
+            "filename": "6.jpg",
+            "predicted_label": "Granny Smith"
+        },
+        {
+            "filename": "4.jpg",
+            "predicted_label": "Granny Smith"
+        },
+        {
+            "filename": "3.jpg",
+            "predicted_label": "lemon"
+        },
+        {
+            "filename": "1.jpg",
+            "predicted_label": "lemon"
+        },
+        {
+            "filename": "16.jpg",
+            "predicted_label": "fig"
+        },
+        {
+            "filename": "15.jpg",
+            "predicted_label": "zucchini, courgette"
+        },
+        {
+            "filename": "14.jpg",
+            "predicted_label": "orange"
+        },
+        {
+            "filename": "18.jpg",
+            "predicted_label": "Granny Smith"
+        },
+        {
+            "filename": "2.jpg",
+            "predicted_label": "strawberry"
+        },
+        {
+            "filename": "7.jpg",
+            "predicted_label": "pineapple, ananas"
+        },
+        {
+            "filename": "9.jpg",
+            "predicted_label": "strawberry"
+        },
+        {
+            "filename": "5.jpg",
+            "predicted_label": "jack-o'-lantern"
+        },
+        {
+            "filename": "11.jpg",
+            "predicted_label": "orange"
+        },
+        {
+            "filename": "12.jpg",
+            "predicted_label": "orange"
+        },
+        {
+            "filename": "13.jpg",
+            "predicted_label": "Granny Smith"
+        },
+        {
+            "filename": "17.jpg",
+            "predicted_label": "pomegranate"
+        }
+    ],
+    "ResNet": [
+        {
+            "filename": "10.jpg",
+            "predicted_label": "Granny Smith"
+        },
+        {
+            "filename": "8.jpg",
+            "predicted_label": "pomegranate"
+        },
+        {
+            "filename": "6.jpg",
+            "predicted_label": "lemon"
+        },
+        {
+            "filename": "4.jpg",
+            "predicted_label": "fig"
+        },
+        {
+            "filename": "3.jpg",
+            "predicted_label": "lemon"
+        },
+        {
+            "filename": "1.jpg",
+            "predicted_label": "lemon"
+        },
+        {
+            "filename": "16.jpg",
+            "predicted_label": "cucumber, cuke"
+        },
+        {
+            "filename": "15.jpg",
+            "predicted_label": "cucumber, cuke"
+        },
+        {
+            "filename": "14.jpg",
+            "predicted_label": "banana"
+        },
+        {
+            "filename": "18.jpg",
+            "predicted_label": "Granny Smith"
+        },
+        {
+            "filename": "2.jpg",
+            "predicted_label": "strawberry"
+        },
+        {
+            "filename": "7.jpg",
+            "predicted_label": "pineapple, ananas"
+        },
+        {
+            "filename": "9.jpg",
+            "predicted_label": "strawberry"
+        },
+        {
+            "filename": "5.jpg",
+            "predicted_label": "ocarina, sweet potato"
+        },
+        {
+            "filename": "11.jpg",
+            "predicted_label": "orange"
+        },
+        {
+            "filename": "12.jpg",
+            "predicted_label": "orange"
+        },
+        {
+            "filename": "13.jpg",
+            "predicted_label": "lemon"
+        },
+        {
+            "filename": "17.jpg",
+            "predicted_label": "pomegranate"
+        }
+    ],
+    "MobileNet V3": [
+        {
+            "filename": "10.jpg",
+            "predicted_label": "Granny Smith"
+        },
+        {
+            "filename": "8.jpg",
+            "predicted_label": "pomegranate"
+        },
+        {
+            "filename": "6.jpg",
+            "predicted_label": "fig"
+        },
+        {
+            "filename": "4.jpg",
+            "predicted_label": "Granny Smith"
+        },
+        {
+            "filename": "3.jpg",
+            "predicted_label": "lemon"
+        },
+        {
+            "filename": "1.jpg",
+            "predicted_label": "lemon"
+        },
+        {
+            "filename": "16.jpg",
+            "predicted_label": "zucchini, courgette"
+        },
+        {
+            "filename": "15.jpg",
+            "predicted_label": "zucchini, courgette"
+        },
+        {
+            "filename": "14.jpg",
+            "predicted_label": "orange"
+        },
+        {
+            "filename": "18.jpg",
+            "predicted_label": "pomegranate"
+        },
+        {
+            "filename": "2.jpg",
+            "predicted_label": "strawberry"
+        },
+        {
+            "filename": "7.jpg",
+            "predicted_label": "pineapple, ananas"
+        },
+        {
+            "filename": "9.jpg",
+            "predicted_label": "strawberry"
+        },
+        {
+            "filename": "5.jpg",
+            "predicted_label": "balloon"
+        },
+        {
+            "filename": "11.jpg",
+            "predicted_label": "orange"
+        },
+        {
+            "filename": "12.jpg",
+            "predicted_label": "orange"
+        },
+        {
+            "filename": "13.jpg",
+            "predicted_label": "Granny Smith"
+        },
+        {
+            "filename": "17.jpg",
+            "predicted_label": "pomegranate"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "filename": "1.jpg",
+        "labels": ["Lemon"]
+    },
+    {
+        "filename": "2.jpg",
+        "labels": ["Strawberry"]
+    },
+    {
+        "filename": "3.jpg",
+        "labels": ["Lemon"]
+    },
+    {
+        "filename": "4.jpg",
+        "labels": ["Pear"]
+    },
+    {
+        "filename": "5.jpg",
+        "labels": ["Pineapple"]
+    },
+    {
+        "filename": "6.jpg",
+        "labels": ["Pear"]
+    },
+    {
+        "filename": "7.jpg",
+        "labels": ["Pineapple"]
+    },
+    {
+        "filename": "8.jpg",
+        "labels": [ "Pomegranate"]
+    },
+    {
+        "filename": "9.jpg",
+        "labels": ["Strawberry"]
+    },
+    {
+        "filename": "10.jpg",
+        "labels": ["Apple"]
+    },
+    {
+        "filename": "11.jpg",
+        "labels": ["Orange"]
+    },
+    {
+        "filename": "12.jpg",
+        "labels": ["Orange"]
+    },
+    {
+        "filename": "13.jpg",
+        "labels": ["Kiwi"]
+    },
+    {
+        "filename": "14.jpg",
+        "labels": ["Kiwi"]
+    },
+    {
+        "filename": "15.jpg",
+        "labels": ["Avocado"]
+    },
+    {
+        "filename": "16.jpg",
+        "labels": ["Avocado"]
+    },
+    {
+        "filename": "17.jpg",
+        "labels": ["Pomegranate"]
+    },
+    {
+        "filename": "18.jpg",
+        "labels": ["Apple"]
+    }
+]
